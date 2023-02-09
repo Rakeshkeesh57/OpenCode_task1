@@ -1,0 +1,12 @@
+1.git is a software that provides us features to access,to improve and to manage the code while git hub is a platform through which we can access the features of git .
+2.git clone is used to copy a repository. If the repository lies on a remote server.
+  git reset command will reset the index and the working directory to the last git commit’s state.
+  git rm can be used to remove files from the index and the working directory.
+  git add is used to add files to the staging area. For example, the basic Git following command will index the temp.txt file
+  git commit will create a snapshot of the changes and save it to the git directory.
+3.step 1. On GitHub.com, navigate to the main page of the repository.
+  step 2.In the "Branch" menu, choose the branch that contains your commits.
+  step 3.Above the list of files, click  Pull request.
+  step 4.Use the base branch dropdown menu to select the branch you'd like to merge your changes into, then use the compare branch drop-down menu to choose the topic branch you made your changes in.
+  step 5.Type a title and description for your pull request.
+  step 6.To create a pull request that is ready for review, click Create Pull Request. To create a draft pull request, use the drop-down and select Create Draft Pull Request, then click Draft Pull Request. For more information about draft pull requests, see "About pull requests."
